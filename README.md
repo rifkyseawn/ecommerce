@@ -203,9 +203,7 @@ Add data through Django Admin.
 Go to http://127.0.0.1:8000/admin to access the Django Admin interface and sign in using the admin credentials.
 
 
-=======
-# ecommerce
->>>>>>> 56d39394ccd0bc68dbefcc29be98eb5721d3e312
+
 
 
 

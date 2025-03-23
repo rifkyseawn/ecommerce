@@ -1,6 +1,8 @@
 # Auction Website
 
-![Image](https://github.com/user-attachments/assets/b7e58149-0517-4810-89e0-30b66001b8f3)
+### Website mode:
+
+![Image](https://github.com/user-attachments/assets/a14d0fb0-769c-48da-ba87-ee1665cb6a04)
 
 ![Image](https://github.com/user-attachments/assets/b0e02097-7d0b-4009-bdd5-3d757b202d2a)
 
@@ -9,6 +11,10 @@
 ![Image](https://github.com/user-attachments/assets/d9ed373e-b344-4204-b13d-4cdc503a459f)
 
 ![Image](https://github.com/user-attachments/assets/b7a66da7-348a-497d-b200-271c35bbc05b)
+
+### Responsive mode:
+
+![Image](https://github.com/user-attachments/assets/bc5ebf44-e757-4050-8401-9be1c27ff4fa)
 
 
 An eBay-style e-commerce website developed with **Django 4**, utilizing **HTML5**, **CSS3**, **Bootstrap 5** (Bootswatch theme), and **Chart.js 2** for data visualization. Powered by **PostgreSQL** database.
